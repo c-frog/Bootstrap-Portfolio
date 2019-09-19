@@ -1,0 +1,27 @@
+#kanye {
+    width: 35%;
+}
+.media {
+    margin: 10% 7% 10% 7%;
+    background-color: lightgrey;
+    border: solid 1px black;
+}
+
+#footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    justify-content: center;
+}
+
+body {
+    background-image: url("virgilabloh_2016-Feb-11.0.0.jpg")
+}
+
+.bg-light {
+    background-color: #ccc;
+    border: solid 1px darkgrey;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
