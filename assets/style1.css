@@ -1,0 +1,85 @@
+/* HEADER/NAV  */
+.navbar-brand{
+    width: 25%;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-bottom: solid 1px lightgray;
+}
+
+#navbarNavAltMarkup.collapse.navbar-collapse {
+    margin-left: 50%;
+}
+
+
+body {
+    background-image: url("leaves-pattern\ copy.png")
+}
+/* ABOUT ME  */
+.media {
+    margin: 10%;
+    background: white;
+    border: solid 1px lightgray;
+    padding: 3%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4 {
+    font-size: 1.25rem;
+    border-bottom: solid 1px lightgray;
+    padding-bottom: 10px;
+}
+
+/* CONTACT */
+
+.bodycontainer {
+    margin: 5%;
+    background: white;
+    border: solid 1px lightgray;
+    padding: 3%;
+    }
+    form {
+        padding: 0px 0px 15px 0px;
+        margin: 10px 3% 40px 3%;
+        color: #777777;
+        font-size: 12pt;
+    }
+        input {
+            width: 100%;
+            padding: 5px 0px 5px 0px;
+            margin: 3px 0px 10px 0px;
+        }
+        #message {
+            width: 100.3%;
+            height: 200px;
+            padding: 5px 0px 5px 0px;
+            margin: 3px 0px 10px 0px;
+            border: solid .5px lightgrey;
+        }
+
+/* PORFOLIO  */
+
+.container {
+    margin: 5% 0% 5% 10%;
+    background: white;
+    border: solid 1px lightgray;
+    padding: 3% 0% 3% 8%;
+    display: flow-root;
+}
+.albums {
+    height: 1em;
+    height: 175px;
+    padding: 10px;
+}
+
+#footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    justify-content: center;
+    border-top: solid 1px lightgrey;
+}
+
